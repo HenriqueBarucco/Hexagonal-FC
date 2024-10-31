@@ -1,6 +1,7 @@
 package main
 
-// hello world main
+import "github.com/HenriqueBarucco/Hexagonal-FC/cmd"
+
 func main() {
-	println("Hello, World!")
+	cmd.Execute()
 }
